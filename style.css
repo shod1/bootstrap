@@ -1,0 +1,108 @@
+@font-face {
+    font-family: Airbnb Cereal;
+    src: url();
+}
+
+.header-mar {
+    margin-top: 1px;
+}
+.sec-1 {
+    margin-top: 4%;
+}
+.sec-2 {
+    margin-top: 10%;
+}
+.zag1 {
+    color: var(--Blue-Dark, #002248);
+    font-family: Eksell Display;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 550;
+    line-height: 72px;
+    text-transform: capitalize;
+}
+.p1 {
+    font-family: Comfortaa;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    color: var(--Paragraph-Color-H3, #697687);
+}
+.flex2 .pbold {
+    color: var(--Blue-Dark, #002248);
+    font-family: Comfortaa;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; 
+}
+.plight {
+    color: var(--Paragraph-Color-H3, #697687);
+    font-family: Comfortaa;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; 
+}
+.block-img2 {
+    padding-bottom: 5px;
+}
+.sec-3 {
+    margin-top: 5%;
+}
+.carousel {
+    height: 400px !important;
+    overflow: hidden;
+  }
+  .carousel-inner {
+    overflow: visible;
+  }
+  .carousel-inner img {
+    left: 50%;
+    max-width: none !important;
+    min-height: 400px;
+    min-width: 100%;
+    position: absolute;
+    top: 200px;
+    transform: translate(-50%,-50%);
+}
+.green {
+    color: var(--Blue-Light, #00B3A0);
+    font-family: Comfortaa;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px;
+}
+.h-slider {
+    color: var(--Blue-Dark, #002248);
+    font-family: Eksell Display;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 52px; /* 123.81% */
+    text-transform: capitalize;
+}
+.p-slider {
+    color: var(--Paragraph-Color-H3, #697687);
+    font-family: Comfortaa;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+}
+.sec-4 {
+    margin-top: 7%;
+}
+.sec-5 {
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+.formpad {
+    padding-top: 2.3%;
+}
+.block-img2 {
+    width: 100px;
+    height: 100px !important;
+}
