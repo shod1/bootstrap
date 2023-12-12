@@ -46,7 +46,12 @@
     line-height: 28px; 
 }
 .block-img2 {
-    padding-bottom: 5px;
+    margin-bottom: 30px;
+    width: 100px;
+    height: 100px;
+}
+.img100 {
+    width: 100%;
 }
 .sec-3 {
     margin-top: 5%;
@@ -101,10 +106,6 @@
 }
 .formpad {
     padding-top: 2.3%;
-}
-.block-img2 {
-    width: 100px;
-    height: 100px !important;
 }
 .burger {
     display: none;
