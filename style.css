@@ -222,4 +222,55 @@
     header {
         --bs-gutter-y: 1rem;
     }
+    .colu {
+        flex-direction: column!important;
+        align-items: center;
+    }
+    .fleximg {
+        display: flex;
+        width: 70%!important;
+       
+    }
+    .block-text {
+        width: 100%!important;
+        
+    }
+    .zag1 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .p1 {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .btn-adap {
+        --bs-btn-font-size: 0.9rem!important
+    }
+    .btn-1{ 
+        max-width: 110px!important;
+    }
+    .burger {
+        width: 20%;
+    }
+    .logo {
+        width: 38%;
+    }
+    .wcol {
+        width: 50%;
+    }
+    .block-img2 {
+        width: 100px;
+        height: 100px!important;
+    }
+    .pbold {
+        margin-top: 5px;
+        font-size: 16px;
+    }
+    .plight {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .mbz {
+        margin-bottom: 0px!important;
+    }
 }
